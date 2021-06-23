@@ -1,5 +1,7 @@
 # GIS-portal
 
+Looking into GeoDev pathway.
+
 This is repo for [Web GIS development 2021 course on udemy](https://www.udemy.com/course/web-gis-development-2021/?couponCode=215813F9D9B53E8874A8). Click [here](https://www.udemy.com/course/web-gis-development-2021/?couponCode=215813F9D9B53E8874A8) to get the course on discounted price (78% discount).
 
 # Getting start with this project
